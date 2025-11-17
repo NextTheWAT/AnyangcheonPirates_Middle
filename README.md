@@ -505,10 +505,11 @@ public class AttackManager : MonoBehaviour
 ```
 
 이 구현은 수학적 정확성과 게임적 재미를 결합한 독창적인 접근 방식을 보여주며, 3일이라는 짧은 시간 안에 완성한 게임잼 프로젝트로서 높은 기술적 완성도를 달성했습니다.
-<img width="691" height="385" alt="Untitled" src="https://github.com/user-attachments/assets/a91c85d8-271a-4b36-82ac-4b2bb27362bd" />
-<img width="690" height="395" alt="Untitled (1)" src="https://github.com/user-attachments/assets/e21d15ed-986a-4dfe-80b8-4db9a0b3907d" />
-<img width="696" height="383" alt="Untitled (2)" src="https://github.com/user-attachments/assets/76c7418e-dcf4-490d-8000-b1b1c1466709" />
-<img width="700" height="388" alt="Untitled (3)" src="https://github.com/user-attachments/assets/81452de5-5076-4f26-9ebe-d1e25ed71cd7" />
+  
+<img width="691" height="385" alt="Untitled" src="https://github.com/user-attachments/assets/a91c85d8-271a-4b36-82ac-4b2bb27362bd" />  
+<img width="690" height="395" alt="Untitled (1)" src="https://github.com/user-attachments/assets/e21d15ed-986a-4dfe-80b8-4db9a0b3907d" />  
+<img width="696" height="383" alt="Untitled (2)" src="https://github.com/user-attachments/assets/76c7418e-dcf4-490d-8000-b1b1c1466709" />  
+<img width="700" height="388" alt="Untitled (3)" src="https://github.com/user-attachments/assets/81452de5-5076-4f26-9ebe-d1e25ed71cd7" />  
 
 
 
